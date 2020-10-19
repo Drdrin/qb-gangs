@@ -1,4 +1,6 @@
-Script Name : OG-Gangs
+Script Name : QB-gangs
+
+Discord - https://discord.gg/GCz5zDx
 
 Script Description : 
 Consists Of 4 gangs (Ballas,Vagos,Marabunta,Thefamily)
